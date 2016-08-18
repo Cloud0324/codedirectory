@@ -1,0 +1,2 @@
+# codedirectory
+For coding purposes 
